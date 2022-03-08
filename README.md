@@ -7,7 +7,7 @@ University Application Module: https://xd.adobe.com/view/f791492d-9a61-4f83-50e6
 
 University Education Module: https://xd.adobe.com/view/bc0804ae-2c09-4591-63b5-b343cab09876-ca39/
 
-Currency Mobile App: https://www.figma.com/file/5Iu65eU6VgoJ1K8C5imf1p/iOS-Design?node-id=0%3A1
+Currency Mobile App: https://www.figma.com/proto/5Iu65eU6VgoJ1K8C5imf1p/iOS-Design?node-id=1%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2
 
 Chat - Desing: https://ilkertrker.github.io/Chat-desing/index
 
